@@ -4,6 +4,8 @@ Orbity is a little pet that lives on top of your screen, floats above your other
 
 Orbity is AI, so now and then an answer can be wrong. It needs an AI "brain" to chat: a free one that runs on your own computer, or an optional smarter one you connect with your own account (see below).
 
+**Need help installing or setting up?** Follow the step-by-step [HELP guide](HELP.md) (Mac, Windows and brain setup).
+
 ## Download
 
 | System | Get it here |
